@@ -42,6 +42,37 @@ Mar (Visualization Month)
 
 </details>
 
+<details>
+
+  <summary> Ajibola (bobjay) Goals </summary>
+  
+---
+Certified Kubernetes Administrator
+
+Jan 
+
+- Introduction
+- Core Concepts
+- Scheduling
+- Logging & Monitoring
+- App Lifecycle Management
+
+Feb
+
+- Cluster Maintenance
+- Security
+- Storage
+
+March
+
+- Networking
+- Design and Install a Kubernetes Cluster
+- Install "Kubernetes the Kubeadm Way"
+- Troubleshooting
+- Mock Exams
+- CKA Certification Exam
+
+</details>
 
 <details>
 
