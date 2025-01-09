@@ -127,3 +127,37 @@ Q1
 - Goal C
 
 </details>
+
+<details>
+
+  <summary> Group </summary>
+  
+---
+
+  <p> 
+  Please write your name on your Sub-Groups <br>
+  </p>
+
+
+
+Sub-Group
+
+
+  Cyber Security
+   <ul>
+    <li>name</li>
+  </ul>
+
+
+  Python
+  <ul>
+    <li>Edoboye</li>
+  </ul>
+
+
+  K8S
+<ul>
+    <li>name</li>
+  </ul>
+
+</details>
