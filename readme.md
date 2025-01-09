@@ -158,6 +158,25 @@ Q1
 
 <details>
 
+  <summary> Susan's Goals </summary>
+  
+---
+Microsoft SCCM
+---
+
+Q1
+- Complete the Udemy SCCM training course {https://www.udemy.com/share/101z2m3@F6DyU8JIyoP07gEU_U-ySRxXxVxs7QoKpNDrmkudZWFKuQG7TIDj5q92DvNcB-0F/}
+- Complete the PluralSight SCCM training course {https://app.pluralsight.com/paths/skills/microsoft-endpoint-manager-a-comprehensive-guide-to-mecm-and-intune}
+
+Task 1
+- Complete Section 6; Deploying the SCCM Client {Udemy}
+- Complete Section 3; Microsoft Endpoint Manager: Deploy MECM Clients {PluralSight}
+ 
+</details>
+
+
+<details>
+
   <summary> Copy this sample block </summary>
   
 ---
