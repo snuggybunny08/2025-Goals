@@ -1,4 +1,4 @@
-# Please Commit Your First Quarter Goal
+# Please Commit Your First Quarter Goals
 
 <details>
   <summary> King Obi Goals </summary>
