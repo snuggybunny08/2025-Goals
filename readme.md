@@ -106,6 +106,33 @@ March
 </details>
 
 
+<details>
+
+  <summary> Lohor Goals </summary>
+  
+---
+
+  <p> 
+  Kubestonaut <br>
+  Comptia Security+<br>
+  Improve Python Skillset<br>
+  </p>
+
+
+
+Q1
+- Jan: Comptia Security+ Cert (exam on the 2nd of FEB)
+- Feb: CKA Certification (exam not scheduled)
+- Read Automate the boring stuff with python
+- April: CKAD Certification
+
+Q2
+- May: KCNA Certification
+- June-July: CKS Certification
+- August: KCSA Certification
+
+</details>
+
 
 <details>
 
