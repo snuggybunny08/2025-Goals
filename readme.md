@@ -74,6 +74,39 @@ March
 
 </details>
 
+
+<details>
+
+  <summary> Semir Goals </summary>
+  
+---
+CompTia Security+ Certification
+---
+Jan
+- Risk Management
+- Foundations of Cryptography
+- Physical Security
+- Identity and Account Management
+- Tools of Trade
+
+Feb
+- Securing Individual Systems
+- Securing the basic LAN
+- Securing the wireless LANs
+- Securing Virtual and Cloud Environments
+- Securing Dedicated and Mobile Systems
+
+March
+- Secure Protocols and Applications
+- Testing Infrastructure
+- Business Security Impact
+- Dealing with Incidents
+- Practice Exams
+- CompTia Security+ Exam
+</details>
+
+
+
 <details>
 
   <summary> Copy this sample block </summary>
