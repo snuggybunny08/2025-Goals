@@ -133,6 +133,28 @@ Q2
 
 </details>
 
+<details>
+
+  <summary> Qawi's Goals </summary>
+  
+---
+
+  <p> 
+  Improve Front-end skills and learn Backend technologies<br>
+  Improve Python skillset<br>
+  Do more DSAs and Leetcode<br>
+  </p>
+
+
+
+Q1
+- Jan: Learn and practice DSAs more, Work on a full-stack web app without the use of any BAAS
+- Feb: Build a really simple CRUD application with Python
+- Read Automate the boring stuff with python
+- March:  Land an SE internship role 
+</details>
+
+
 
 <details>
 
@@ -179,6 +201,10 @@ Sub-Group
   Python
   <ul>
     <li>Edoboye</li>
+  </ul>
+
+  <ul>
+    <li>Qawi</li>
   </ul>
 
 
