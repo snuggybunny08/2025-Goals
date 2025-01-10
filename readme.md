@@ -194,42 +194,28 @@ Q1
 - Goal B
 - Goal C
 
-</details>
-
 <details>
-
-  <summary> Group </summary>
-  
----
-
-  <p> 
-  Please write your name on your Sub-Groups <br>
-  </p>
-
-
-
-Sub-Group
-
-
-  Cyber Security
-   <ul>
-    <li>name</li>
-  </ul>
-
-
+  <summary> Groups </summary>
   Python
   <ul>
     <li>Edoboye</li>
-  </ul>
-
-  <ul>
+    <li>Ade</li>
     <li>Qawi</li>
   </ul>
 
-
   K8S
-<ul>
-    <li>name</li>
+  <ul>
+    <li>Person1</li>
+    <li>Person2</li>
+    <li>Person3</li>
   </ul>
+
+  Cyber Security
+   <ul>
+    <li>Person1</li>
+    <li>Person2</li>
+    <li>Person3</li>
+  </ul>
+
 
 </details>
