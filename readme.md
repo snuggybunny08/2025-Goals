@@ -193,6 +193,8 @@ Q1
 - Goal A
 - Goal B
 - Goal C
+</details>
+
 
 <details>
   <summary> Groups </summary>
@@ -216,6 +218,5 @@ Q1
     <li>Person2</li>
     <li>Person3</li>
   </ul>
-
 
 </details>
