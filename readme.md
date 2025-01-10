@@ -195,6 +195,9 @@ Q1
 
 
 <details>
+
+---
+
   <summary> Groups </summary>
   Python
   <ul>
