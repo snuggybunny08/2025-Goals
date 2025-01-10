@@ -79,7 +79,6 @@ March
 
   <summary> Semir Goals </summary>
   
----
 CompTia Security+ Certification
 ---
 Jan
@@ -198,6 +197,7 @@ Q1
 
 <details>
   <summary> Groups </summary>
+  ---
   Python
   <ul>
     <li>Edoboye</li>
