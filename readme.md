@@ -172,6 +172,18 @@ Task 1
  
 </details>
 
+<details>
+
+  <summary> Doja's Goals </summary>
+  
+---
+
+Q1
+- Python refresh using Python Crash Course by Eric Matthes
+- SQL refresh using SQL in 10mins by Ben Forta
+- Pyspark Refresh using Big Data Analytics with Spark by Mohammed Guller
+
+</details>
 
 <details>
 
