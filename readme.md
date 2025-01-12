@@ -5,6 +5,7 @@
 
   ---
   1. [Python Crash Course by Eric Matthes](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)
+  - [Current Working] (https://github.com/King-Ob/2025_PCC)
   - Why this book? It’s beginner-friendly and focuses on foundational programming skills in Python.
   - Project: Build a Movie Recommendation Tracker:
     - Use Python to store movie titles, genres, and ratings in a dictionary.
