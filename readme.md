@@ -188,6 +188,20 @@ Q1
 
 <details>
 
+  <summary> Olumade's goals </summary>
+  
+---
+
+
+Q1
+  [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+  - Why this book? It introduces real-world problem-solving with Python.
+  - Project: Create a Football History Analyzer:
+    - Scrape or analyze a CSV file containing historical football.
+    - API endpoint to analyze information(curl)
+</details>
+<details>
+
   <summary> Copy this sample block </summary>
   
 ---
