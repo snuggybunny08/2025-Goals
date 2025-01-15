@@ -37,7 +37,7 @@ Feb
 - AWS EMR from scratch
 
 Mar (Visualization Month)
-
+- https://6sense.com/tech/data-visualization/amazon-quicksight-market-share
 - AWS QuickSight
 - PowerBI
 - Tableau
