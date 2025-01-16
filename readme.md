@@ -237,6 +237,28 @@ Q1
 
 <details>
 
+summary> Emmanuel</summary>
+  
+---
+
+  <p> 
+   <br>
+  Add your name in the summary <br>
+  Add your goals in the body <br>
+  </p>
+
+
+
+Q1
+- Complete my six month probation period successfully.
+- Learn indepth AWS cloud services as I transition from Azure Cloud
+- Write GCP Data Engineering Certification
+- Complete my Python and Advance SQL and AWS Data Engineering (Glue,EMR, Kinesis, Lambda, Redshift, Athena) courses on Udemy 
+</details>
+
+
+<details>
+
 ---
 
   <summary> Groups </summary>
